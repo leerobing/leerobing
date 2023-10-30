@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
    <br/>
 
-
-#### :pencil2: Study log
+   안녕하세요 백앤드 개발자로 공부하고 있는 이호빈입니다. 
  
   <br/>
 
