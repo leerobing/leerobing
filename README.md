@@ -1,6 +1,6 @@
  <div align="center">
   
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp;&nbsp;<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> &nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> &nbsp;&nbsp;<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> &nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
  
   <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leerobing&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![leeronibg's GitHub stats](https://github-readme-stats.vercel.app/api?username=leerobing)](https://github.com/leerobing/github-readme-stats)
 
 </div>
