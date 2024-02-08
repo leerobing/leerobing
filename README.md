@@ -19,16 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Waving&&text=Deepdiver_engineer&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-
-   <br/>
-
-   안녕하세요 백앤드 개발자로 공부하고 있는 이호빈입니다. 
- 
-  <br/>
-
-[![leeronibg's GitHub stats](https://github-readme-stats.vercel.app/api?username=leerobing)](https://github.com/leerobing/github-readme-stats)
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@leerobing/posts">
@@ -39,5 +29,17 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/ghqls6543@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![header](https://capsule-render.vercel.app/api?type=Waving&&text=Deepdiver_engineer&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+   <br/>
+
+   안녕하세요 백앤드 개발자로 공부하고 있는 이호빈입니다. 
+ 
+  <br/>
+
+[![leeronibg's GitHub stats](https://github-readme-stats.vercel.app/api?username=leerobing)](https://github.com/leerobing/github-readme-stats)
+
+
 
 </div>
