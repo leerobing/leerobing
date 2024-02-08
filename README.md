@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 
 [![leeronibg's GitHub stats](https://github-readme-stats.vercel.app/api?username=leerobing)](https://github.com/leerobing/github-readme-stats)
 
+
+기술 블로그 
+<img src=https://velog.io/@leerobing/posts>
+
 </div>
