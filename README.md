@@ -29,6 +29,7 @@ Here are some ideas to get you started:
       src="https://img.shields.io/badge/ghqls6543@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+<br/>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&&text=Deepdiver_engineer&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
